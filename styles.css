@@ -40,6 +40,25 @@ iframe {
   gap: 10px;
 }
 
+@media(min-width: 390px) {
+ .clima {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    gap: 10px;
+  }
+
+
+@media(min-width: 480px) {
+ .clima {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    gap: 10px;
+  }
+
 @media(min-width: 600px) {
  .clima {
     flex-direction: column;
